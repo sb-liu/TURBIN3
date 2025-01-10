@@ -1,0 +1,8 @@
+# js
+airdrop/node_modules
+
+# rust
+airdrop-rust/target
+
+# wallets
+*wallet.json
